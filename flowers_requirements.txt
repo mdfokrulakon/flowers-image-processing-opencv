@@ -1,0 +1,9 @@
+# Versions installed and exercised when the notebooks were smoke-tested (Python 3.12).
+# Adjust them if your Python/OS combination needs other builds.
+numpy==2.4.4
+pandas==3.0.2
+matplotlib==3.10.8
+pillow==12.1.1
+opencv-python==4.13.0.92
+kagglehub==1.0.2
+jupyter==1.1.1
